@@ -2,7 +2,7 @@
   "name": "todo-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dhananjaygalave.github.io/todo-app",
+  "homepage": "https://dhananjaygalave.github.io/ToDo-App",
   "dependencies": {
     "bootstrap": "^5.3.3",
     "cra-template": "1.2.0",
